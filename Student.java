@@ -1,3 +1,8 @@
 class Student{
+    
+
+    public Student() {
+
+    }
   
 }
